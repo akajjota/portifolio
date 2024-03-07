@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="black">
+    <main>
+        <div>
+            <h1 style="color: blueviolet;">jotaa</h1>
+            <h3 style="color: rgb(13, 240, 172);">meu projeto</h3>
+            <p style="color: aliceblue;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam, iusto. Illo cupiditate eum natus alias fugiat enim, pariatur animi aliquam neque labore quaerat eligendi voluptatem assumenda quas rerum impedit dolore!</p>
+            <img src="https://lh3.googleusercontent.com/proxy/EBDWI2a-kcVgVz4q3EV2yft-9pga0aDyRzw4hQf81Y2cwwWV42GJTTyPmjzeGXr2KmEHIKksg8STFnBSbLk" alt="">
+            <a style="color: aquamarine;" href="https://github.com/akajjota/portifolio.git">portifolio</a>
+        </div>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
